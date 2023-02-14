@@ -1,6 +1,6 @@
 ---
 template: "index-template"
-title: "Gatsby Starter Glass"
+title: "Home"
 ---
 
 # Hunter Killer
