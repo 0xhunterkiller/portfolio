@@ -105,13 +105,13 @@ Many features were inherited from Lisp, but also adds on to it. Created by Rich 
 * No more text-based syntax!
 
 ### Java Evaluation
-![Java Evaluation](media/clojure-notes/eval-java.png)
+![Java Evaluation](/media/clojure-notes/eval-java.png)
 
 ### Clojure Evaluation
-![Clojure Evaluation](media/clojure-notes/eval-cloj.png)
+![Clojure Evaluation](/media/clojure-notes/eval-cloj.png)
 
 ### Interactivity, Programs Writing Programs and Syntactic Abstractions
-![Interacitivity and Programs Writing Programs](media/clojure-notes/adv-clj.png)
+![Interacitivity and Programs Writing Programs](/media/clojure-notes/adv-clj.png)
 
 The program generates the data structures and these data structures are then compiled. There are macros. 
 

